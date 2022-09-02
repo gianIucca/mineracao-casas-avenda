@@ -1,0 +1,1 @@
+Projeto utilizando a biblioteca BeautifulSoup do Python para minerar dados sobre todas as casas a venda em Amsterdã dentro do site https://www.pararius.com/, e após pegar esses dados eles irão ser formatados e exportados para um arquivo .csv utilizando a biblioteca Pandas
